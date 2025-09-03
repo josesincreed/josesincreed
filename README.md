@@ -2,6 +2,9 @@
 🔴🟡🟢
 </div>
 
+<div align="center">
+  <img src="Banner.png"/>
+</div>
 
 <p align="center">
  <a href="https://github.com/josesincreed">
