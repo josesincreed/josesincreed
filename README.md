@@ -14,34 +14,36 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/juans__15/profilecard/?igsh=MW5mOWo4YXZhbm9zNQ==">
+<a href="https://https://www.instagram.com/jose_mr.parra">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
 
 </p>
 
-  ## 👨‍💻 &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 <div>
 
-- 🎓 Aspiring Full Stack Developer  
-- 🌱 Constantly exploring new tools and technologies to stay up-to-date.  
-- ⚡ Passionate about writing clean, maintainable, and impactful code.  
-- 🚀 Goal: Build scalable applications and contribute to open-source projects.
-  <br>
-  
-
-<div>
+- 💻 Full Stack Developer | Angular, Spring Boot & AWS  
+- 🏢 Experience: Tata Consultancy Services – APIs REST & Business Rules Mapping  
+- 🌐 Passionate about Cloud Computing, scalable apps & modern web technologies  
+- 🛠️ Skills: Angular, TypeScript, Java, Spring Boot, AWS, REST APIs, SQL, Git  
+- 🌱 Always learning new tools, frameworks, and best practices  
+- ⚡ Focused on writing clean, maintainable, and impactful code  
+- 🚀 Goal: Build robust applications and contribute to open-source projects  
+- 💡 Fun fact: Love exploring new tech, automating tasks, and creating elegant solutions
+- <br>
+</div>
 
   ## 🛠 &nbsp;My Tech Stacks
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,aws,angular,sqlite,ts,py,nestjs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=angular,spring,aws,py,java,ts,js,html,css,gradle,maven,jest,nodejs)](https://skillicons.dev)
 
 </div>
 
 ## 🛠 &nbsp;Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,bootstrap,codepen,git,postman	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,git,postman,docker,bootstrap,postgres,mysql,figma,powershell 	)](https://skillicons.dev)
 
 </div>
 
