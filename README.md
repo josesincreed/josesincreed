@@ -40,13 +40,13 @@
 
   ## 🛠 &nbsp;My Tech Stacks
 
- [![My Skills](https://skillicons.dev/icons?i=angular,spring,aws,py,java,ts,js,html,css,gradle,maven,jest,nodejs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=angular,spring,aws,py,java,ts,js,html,css,postgres,mysql,jest,nodejs)](https://skillicons.dev)
 
 </div>
 
 ## 🛠 &nbsp;Tools
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,git,postman,docker,bootstrap,postgres,mysql,figma,powershell 	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,git,postman,docker,bootstrap,gradle,maven,figma,powershell 	)](https://skillicons.dev)
 
 </div>
 
