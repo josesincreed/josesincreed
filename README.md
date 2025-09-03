@@ -35,7 +35,7 @@
 - ⚡ Focused on writing clean, maintainable, and impactful code  
 - 🚀 Goal: Build robust applications and contribute to open-source projects  
 - 💡 Fun fact: Love exploring new tech, automating tasks, and creating elegant solutions
- <br>
+  
 </div>
 
   ## 🛠 &nbsp;My Tech Stacks
